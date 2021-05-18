@@ -1,3 +1,14 @@
+# Styled Componenets
+“The basic idea of styled-components is to enforce best practices by removing the mapping between styles and components.”
+
+Styled-Components are part of CSS-in-JS movement where we can create components that possess their own encapsulated styles.No longer we need to create component decide on a selector and then rush to app.css or any other stylesheet to write separate styles for that particular component. What makes Styled-Components so cool is their awesome tagged template syntax that allows to create normal react components by only defining styles.With zero configuration styled-components support css modularity, variables in css, nesting in css, extending components styles and many more. Styled Components also allows us to  write plain CSS in your components without worrying about class name collisions
+
+As styled-components co-creator Max Stoiber says:
+
+“The basic idea of styled-components is to enforce best practices by removing the mapping between styles and components.”
+
+Styled-Components are part of CSS-in-JS movement where we can create components that possess their own encapsulated styles.No longer we need to create component decide on a selector and then rush to app.css or any other stylesheet to write separate styles for that particular component. What makes Styled-Components so cool is their awesome tagged template syntax that allows to create normal react components by only defining styles.With zero configuration styled-components support css modularity, variables in css, nesting in css, extending components styles and many more. Styled Components also allows us to  write plain CSS in your components without worrying about class name collisions
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
